@@ -26,3 +26,6 @@
 - **Simulation**: Calculates expected losses under each scenario based on balance, default probability, and LTV.
 - **Metrics**: Reports total loss and loss ratio (% of portfolio value) for each scenario.
 - **Visualization**: Plots expected loss across scenarios with a baseline reference using Plotly.
+
+## Screenshots
+![output](output.png)
